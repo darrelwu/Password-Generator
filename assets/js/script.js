@@ -44,7 +44,7 @@ function generatePassword () {
     var wantSymbols = confirm ("Will your password include special characters (symbols)?");
     var wantNumbers = confirm ("Will your password include numbers?");
 
-  //if statement if none of the criteria has been selected
+  //if statement if none of the criteria has been selected then return null
   if (
     wantUpperCase === false &&
     wantLowerCase === false &&
