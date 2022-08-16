@@ -15,7 +15,7 @@ My motivation today is to create a password generator that utilizes lowercase, u
 This is to demonstrate the usage of javascript to produce a random password to be used. 
  
 ## Demo
-https://darrelwu.github.io/Personal-Portfolio-Page/
+https://darrelwu.github.io/Password-Generator/
 
  
 <img src="./assets/images/password.jpg">
